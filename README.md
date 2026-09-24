@@ -83,7 +83,7 @@ Provides a high-level view of business performance:
 - Sales evolution
 - YoY comparison
 - Revenue forecast
- <img width="1577" height="886" alt="Screenshot 2026-09-23 192921" src="https://github.com/user-attachments/assets/c8af7d40-6066-41c7-8d82-adfc57ced5a1" />
+
 ### 2. Sales Analysis
 
 Focuses on:
