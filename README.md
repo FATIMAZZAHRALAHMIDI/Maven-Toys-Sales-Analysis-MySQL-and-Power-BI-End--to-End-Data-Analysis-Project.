@@ -1,6 +1,6 @@
+# 🧸 Maven Toys Sales Analysis
+# MySQL → Power BI | End-to-End Data Analysis Project
 
-# maven-toys-sql-project
-# Toys Sales Analysis using SQL
 
 ## Project Overview
 This project analyzes toy store sales data using MySQL.
@@ -38,3 +38,101 @@ This project analyzes toy store sales data using MySQL.
 
 80/20 pareto 
 <img width="1791" height="927" alt="Screenshot 2026-06-16 221133" src="https://github.com/user-attachments/assets/aafc7dfa-0977-4de5-a6b2-bee877c34773" />
+
+# 📊 Part 2 — Power BI Dashboard
+
+After completing the SQL analysis, I continued the project in Power BI to transform the analysis into an interactive dashboard.
+
+## Data Modeling
+
+I built a **Star Schema** including:
+
+- Fact tables
+- Dimension tables
+- Calendar table
+- Relationships between tables
+- Separation of sales and inventory data
+
+The model was designed to support business analysis and time-based calculations.
+
+# 🧮 DAX Analysis
+
+I created DAX measures for:
+
+- Revenue
+- Profit
+- Profit Margin
+- Year-over-Year analysis
+- Time Intelligence
+- Top Products
+- Store Performance
+- Category Performance
+- Inventory Analysis
+- Revenue Forecast
+
+# 📈 Dashboard Structure
+
+The Power BI report contains **4 pages**.
+
+### 1. Executive Overview
+
+Provides a high-level view of business performance:
+
+- Revenue KPI
+- Profitability
+- Sales evolution
+- YoY comparison
+- Revenue forecast
+  
+
+### 2. Sales Analysis
+
+Focuses on:
+
+- Product performance
+- Category performance
+- Sales trends
+- Revenue contribution
+
+### 3. Store Performance
+
+Analyzes:
+
+- Store revenue
+- Store performance comparison
+- Sales contribution by store
+
+### 4. Inventory Analysis
+
+Focuses on:
+
+- Stock levels
+- Inventory value
+- Low-stock products
+- Out-of-stock products
+- Inventory-related indicators
+
+# 📌 Key Results
+
+Some results identified during the analysis:
+
+- **$6.96M** revenue in 2023
+- **73.8%** profit margin
+- **Lego Bricks** generated approximately **$1.06M** in revenue
+- Comparison of sales performance between **2022 and 2023**
+- Identification of products and categories contributing most to revenue
+- Revenue forecast for **2024** based on historical data
+
+# 💡 Business Questions
+
+The dashboard was designed to answer questions such as:
+
+- Which products generate the most revenue?
+- How do sales evolve over time?
+- Which stores contribute the most revenue?
+- Which categories are the most profitable?
+- Which products contribute most to overall sales?
+- What inventory signals may require action?
+
+
+
