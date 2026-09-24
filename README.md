@@ -54,6 +54,7 @@ I built a **Star Schema** including:
 - Separation of sales and inventory data
 
 The model was designed to support business analysis and time-based calculations.
+<img width="1441" height="773" alt="Screenshot 2026-09-23 193143" src="https://github.com/user-attachments/assets/e5b0e2d2-e9e4-46a8-8538-00b3f2a9f53b" />
 
 # 🧮 DAX Analysis
 
@@ -83,6 +84,7 @@ Provides a high-level view of business performance:
 - Sales evolution
 - YoY comparison
 - Revenue forecast
+<img width="1357" height="752" alt="Screenshot 2026-09-23 192921" src="https://github.com/user-attachments/assets/77c9d4d6-ca13-4668-b91b-aa03f00bd77b" />
 
 ### 2. Sales Analysis
 
@@ -92,6 +94,7 @@ Focuses on:
 - Category performance
 - Sales trends
 - Revenue contribution
+<img width="1335" height="773" alt="Screenshot 2026-09-23 192927" src="https://github.com/user-attachments/assets/8889417e-bc08-4c02-9f59-dc03e505f2c6" />
 
 ### 3. Store Performance
 
@@ -100,6 +103,7 @@ Analyzes:
 - Store revenue
 - Store performance comparison
 - Sales contribution by store
+<img width="1366" height="782" alt="Screenshot 2026-09-23 192935" src="https://github.com/user-attachments/assets/88c078c6-6729-4535-9171-1e37efb667bb" />
 
 ### 4. Inventory Analysis
 
@@ -110,6 +114,7 @@ Focuses on:
 - Low-stock products
 - Out-of-stock products
 - Inventory-related indicators
+<img width="1386" height="803" alt="Screenshot 2026-09-23 192948" src="https://github.com/user-attachments/assets/f6ab68ad-7ccc-4ac9-9946-cd83d0f23287" />
 
 # 📌 Key Results
 
